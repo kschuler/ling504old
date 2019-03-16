@@ -1,0 +1,42 @@
+title: "LING607: Topics in Psycholinguistics"
+author: "Kathryn Schuler"
+description: ""
+
+# Jekyll settings
+permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
+paginate: 2                  # number of articles per page, remove to disable pagination
+excerpt_separator: "\n\n\n"  # indicates the end of the excerpt by two blank lines
+include: 
+  - spring2019
+
+# Page settings
+show_excerpts: true          # show article previews on the home page instead of headlines
+hide_title: false            # remove site heading in the header
+post_footer: true            # show previous and next links at the end of each post
+date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
+
+# Theme settings
+style: minimal               # choose between "minimal", "default" and "frame"
+dark_nav: false              # keep header and footer dark (applies only when style: default and dark_theme: false are set)
+dark_theme: false            # enables dark mode
+
+navigation:                  # (optional) site navigation in the header
+  Overview: index.html
+  Schedule: index.html#schedule
+  Resources: index.html#resources
+  Readings: index.html#readings
+
+icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
+  github: "https://github.com/kschuler"
+  twitter: "https://twitter.com/KathrynSchuler"
+  flask: "http://kschuler.github.io/childlanglabwiki"
+
+
+comments:                    # embed disqus or isso comments
+#  disqus: ""
+#  isso: ""
+
+plugins: 
+ - jekyll-feed
+ - jekyll-paginate
+ - jekyll-default-layout
