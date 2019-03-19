@@ -1,4 +1,4 @@
-title: "LING607: Topics in Psycholinguistics"
+title: "LING304/504: Neurolinguistics"
 author: "Kathryn Schuler"
 description: ""
 
@@ -7,7 +7,7 @@ permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
 paginate: 2                  # number of articles per page, remove to disable pagination
 excerpt_separator: "\n\n\n"  # indicates the end of the excerpt by two blank lines
 include: 
-  - spring2019
+  - fall2019
 
 # Page settings
 show_excerpts: true          # show article previews on the home page instead of headlines
