@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Spring 2019
+title: Fall 2019
 ---
 
-<h2 align="center">Spring 2019 Syllabus</h2>
+<h2 align="center">Fall 2019 Syllabus</h2>
 <h3 align="center">Topic: Theories of the acquisition process</h3>
 
 **Instructor**: [Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
 
-**Time and place**: Tuesdays, 1:30-3:30pm   
+**Time and place**: Tuesdays & Thursdays, 1:30-3:00 pm   
 Linguistics Department, Conference Room
 
 ## Overview
 
 ### Course description
-In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process.  Topics include: prosodic, semantic, and syntactic bootstrapping theories, usage-based approaches, formal generative approaches, neural network models and more.  Each week we'll read a paper outlining a theoretical approach paired with either (1) an empirical investigation of the approach, (2) a paper expressing opposition to the approach, or (3) both. We'll discuss the strengths and weakness of both the theories and the empirical studies that investigate them. We'll also consider how one might design future experiments to test these theories.
+This course in an upper level undergraduate/graduate seminar in neurolinguistics. We will explore language in the brain through readings and dicussions.
 
 ### Requirements
 All students - including those auditing - are expected to play an active role in class discussion. In each class, one student will be assigned to be the primary reader of each paper.  The primary reader summarizes the reading, leads the discussion, and is primarily responsible for the assigned material.  However, everyone is required to read the assigned material and contribute to the class discussion.
@@ -26,7 +26,7 @@ If you are taking the course for credit, your final project will be a research p
 
 * **20% Participation in class discussion**: Before each class, you'll post 5-8 discussion questions on the assigned readings.  During class, you're expected to participate in class discussion, even if you are not the primary reader.   
 
-* **40% Research proposal**: You'll write a research proposal in which you propose a 1-2 experiments to test a theory of the acquisition process.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
+* **40% Research proposal**: You'll write a research proposal in which you propose an experiments to test a theory of langugae in the brain.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
 
 * **20% In-class peer review**: On the final day of class, we'll conduct a mock study section - an NIH-style peer review panel - to evaluate the research proposals.   Each student will be asked to be the primary reviewer for one proposal and the secondary reviewer for another.  Primary and secondary reviewers will turn in written critiques of their assigned proposals and lead the discussion in the mock study section.  More details about the mock study section are available [here](spring2019/research-proposal#in-class-peer-review).
 
