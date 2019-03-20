@@ -23,9 +23,9 @@ If you are taking the course for credit, your final project will be a research p
 
 ### Evaluation
 
-* **20% Participation in class discussion**: Before each class, you'll post 5-8 discussion questions on the assigned readings.  During class, you're expected to participate in class discussion, even if you are not the primary reader.   
+* **20% Participation in class discussion**: During class, you're expected to participate in class discussion, even if you are not the primary reader. Undergraduates are required to submit responses to the reading questions each week.
 
-* **40% Research proposal**: You'll write a research proposal in which you propose an experiments to test a theory of langugae in the brain.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
+* **40% Research proposal**: You'll write a research proposal in which you propose an experiment to test a theory of langugae in the brain.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
 
 * **20% In-class peer review**: On the final day of class, we'll conduct a mock study section - an NIH-style peer review panel - to evaluate the research proposals.   Each student will be asked to be the primary reviewer for one proposal and the secondary reviewer for another.  Primary and secondary reviewers will turn in written critiques of their assigned proposals and lead the discussion in the mock study section.  More details about the mock study section are available [here](spring2019/research-proposal#in-class-peer-review).
 
@@ -38,37 +38,39 @@ Notes: One name means one primary reader (Primary: Paper), two names mean a prim
 
 Date | Topic | Readings & **Deadlines**
  --- | --- | ---
-Aug 27 | | 
-Aug 29 | |
-Sep 3 | | 
-Sep 5 | | 
-Sep 10 | | 
-Sep 12 | | 
-Sep 17 | | 
+Aug 27 | Course outline & questions | 
+Aug 29 | Brains |
+Sep 3 | Issues and methods| 
+Sep 5 | Planning to write | 
+Sep 10 | Sounds & phonemes | 
+Sep 12 |  | 
+Sep 17 | Words | 
 Sep 19 | | 
-Sep 24 | | 
+Sep 24 | Syntax  | 
 Sep 26 | | 
-Oct 1 | | 
+Oct 1 | Semantics | 
 Oct 3 | |
-Oct 8 | | 
+Oct 8 | Disorders | 
 Oct 10 | No class, Fall break | 
-Oct 15 | | 
+Oct 15 | Billingualism | 
 Oct 17 | | 
-Oct 22 | | 
+Oct 22 | Sign Language | 
 Oct 24 | | 
-Oct 29 | | 
+Oct 29 | Acquisition | 
 Oct 31 | | 
-Nov 5 | | 
+Nov 5 | Written language| 
 Nov 7 | | 
-Nov 12 | | 
+Nov 12 | Dyslexia | 
 Nov 14 | | 
-Nov 19 | | 
+Nov 19 | Language and cerebellum | 
 Nov 21 | | 
-Nov 26 | |
+Nov 26 | Language and our genes | **Research proposals due by Wednesday at midnight**
 Nov 28 | No class, Thanksgiving break | 
-Dec 3 | | 
-Dec 5 | Last class | 
-Dec 12 | Final due  | 
+Dec 3 | Language evolution | **Written critiques due Friday at midnight**
+Dec 5 | Mock study section | Read assigned proposals 
+Dec 12 | Final due  | **Response to reviewers' critiques due by midnight**
+
+
 ## Resources
 
 ### Discussion question instructions
