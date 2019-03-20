@@ -67,7 +67,7 @@ Nov 21 | |
 Nov 26 | Language and our genes | **Research proposals due by Wednesday at midnight**
 Nov 28 | No class, Thanksgiving break | 
 Dec 3 | Language evolution | **Written critiques due Friday at midnight**
-Dec 5 | Mock study section | Read assigned proposals 
+Dec 5 | Last class, Mock study section | Read assigned proposals 
 Dec 12 | Final due  | **Response to reviewers' critiques due by midnight**
 
 
