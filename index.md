@@ -41,29 +41,29 @@ Date | Topic | Readings & **Deadlines**
 Aug 27 | Course outline & questions | 
 Aug 29 | Brains |
 Sep 3 | Issues and methods| 
-Sep 5 | Planning to write | 
+Sep 5 | IDP | 
 Sep 10 | Sounds & phonemes | 
-Sep 12 |  | 
+Sep 12 | Term Plan | 
 Sep 17 | Words | 
-Sep 19 | | 
+Sep 19 | Weekly Plan | 
 Sep 24 | Syntax  | 
-Sep 26 | | 
+Sep 26 | Resistance | 
 Oct 1 | Semantics | 
-Oct 3 | |
+Oct 3 | Review the literature |
 Oct 8 | Disorders | 
 Oct 10 | No class, Fall break | 
 Oct 15 | Billingualism | 
-Oct 17 | | 
+Oct 17 | Define Your Research Question| 
 Oct 22 | Sign Language | 
-Oct 24 | | 
+Oct 24 | Grants and fellowships | 
 Oct 29 | Acquisition | 
 Oct 31 | | 
 Nov 5 | Written language| 
 Nov 7 | | 
 Nov 12 | Dyslexia | 
-Nov 14 | | 
+Nov 14 | Choose Good Words | 
 Nov 19 | Language and cerebellum | 
-Nov 21 | | 
+Nov 21 | Final edits | 
 Nov 26 | Language and our genes | **Research proposals due by Wednesday at midnight**
 Nov 28 | No class, Thanksgiving break | 
 Dec 3 | Language evolution | **Written critiques due Friday at midnight**
