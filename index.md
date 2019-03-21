@@ -41,23 +41,23 @@ Date | Topic | Readings & **Deadlines**
 Aug 27 | Course outline & questions | 
 Aug 29 | Brains |
 Sep 3 | Issues and methods| 
-Sep 5 | IDP | 
+Sep 5 | Planning | 
 Sep 10 | Sounds & phonemes | 
-Sep 12 | Term Plan | 
+Sep 12 | Grant Ideas | 
 Sep 17 | Words | 
-Sep 19 | Weekly Plan | 
+Sep 19 | Literature review I | 
 Sep 24 | Syntax  | 
-Sep 26 | Resistance | 
+Sep 26 | Literature review II | 
 Oct 1 | Semantics | 
-Oct 3 | Review the literature |
+Oct 3 | Defining your research question |
 Oct 8 | Disorders | 
 Oct 10 | No class, Fall break | 
 Oct 15 | Billingualism | 
-Oct 17 | Define Your Research Question| 
+Oct 17 | Specific Aims I | 
 Oct 22 | Sign Language | 
-Oct 24 | Grants and fellowships | 
+Oct 24 | Specific Aims II | 
 Oct 29 | Acquisition | 
-Oct 31 | | 
+Oct 31 |  | 
 Nov 5 | Written language| 
 Nov 7 | | 
 Nov 12 | Dyslexia | 
