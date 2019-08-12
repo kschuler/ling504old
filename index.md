@@ -36,6 +36,26 @@ If you are taking the course for credit, your final project will be a research p
 
 Notes: One name means one primary reader (Primary: Paper), two names mean a primary and a secondary reader (Primary/Secondary: Paper).  
 
+Week | Tuesday | Thursday
+--- | --- | ---
+1 | |
+2 | |
+3 | | 
+4 | |
+5 | |
+6 | | 
+7 | |
+8 | | 
+9 | | 
+10 | | 
+11 | | 
+12 | | 
+13 | | 
+14 | | 
+15 | | 
+16 | | 
+
+
 Date | Topic | Readings & **Deadlines**
  --- | --- | ---
 Aug 27 | Course outline & questions | 
@@ -86,3 +106,6 @@ Dec 12 | Final due  | **Response to reviewers' critiques due by midnight**
 
 ## Readings
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg3Mjk3Mzk3MF19
+-->
