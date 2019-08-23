@@ -46,17 +46,17 @@ T Sep 10 |  |
 R Sep 12 | | 
 T Sep 17| |
 R Sep 19 | | 
-T Sep 24 | Sounds & phonemes | 
+T Sep 24 | Sounds & phonemes I | 
 R Sep 26  | | 
-T Oct 1 Words | | 
+T Oct 1 Words I | | 
 R Oct 3 | | 
-T Oct 8 | Review | Exam 1 (due Wed at midnight) 
+T Oct 8 | Review | Exam 1 
 R Oct 10 | Fall Break | 
-T Oct 15 | | 
+T Oct 15 | Syntax I | 
 R Oct 17 | | 
-T Oct 22 |  |
+T Oct 22 | Semantics I |
 R Oct 24 | | 
-T Oct 29 | |
+T Oct 29 | Bilingualism I |
 R Oct 31 | | 
 T Nov 5 | | 
 R Nov 7 | | 
@@ -64,8 +64,8 @@ T Nov 12 | |
 R Nov 14| | 
 T Nov 19 | | 
 R Nov 21 | | 
-T Nov 26 | | 
-R Nov 28 | Thanksgiving break|
+T Nov 26 | Review | Exam 2
+R Nov 28 | Thanksgiving break |
 T Dec 3 | | 
 R Dec 5| |
 
@@ -86,5 +86,5 @@ R Dec 5| |
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzEzMDQwNDksLTg3Mjk3Mzk3MF19
+eyJoaXN0b3J5IjpbLTE5NDg4NjM2NjcsLTg3Mjk3Mzk3MF19
 -->
