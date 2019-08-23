@@ -64,7 +64,7 @@ T Nov 12 | | HW 10
 R Nov 14| | 
 T Nov 19 | | HW 11
 R Nov 21 | | 
-T Nov 26 | Review | Exam 2 due Wed
+T Nov 26 | Review | **Exam 2 due Wed**
 R Nov 28 | Thanksgiving break |
 T Dec 3 | | 
 R Dec 5| |
@@ -86,5 +86,5 @@ R Dec 5| |
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzM3MDI5OCwtODcyOTczOTcwXX0=
+eyJoaXN0b3J5IjpbLTcxNDI1MDYzMCwtODcyOTczOTcwXX0=
 -->
