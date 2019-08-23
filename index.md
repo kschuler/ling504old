@@ -36,13 +36,13 @@ If you are taking the course for credit, your final project will be a research p
 
 Notes: One name means one primary reader (Primary: Paper), two names mean a primary and a secondary reader (Primary/Secondary: Paper).  
 
-Week | Tuesday | Thursday
+Date | Topic | Assignment
 --- | --- | ---
-1 | Overview | Brain I
-2 | Brain II | Neurons I 
-3 | Neurons II | Methods I
-4 |  |
-5 | |
+T Aug 27 | Overview | Brain I
+R Aug 29 | Brain I | 
+3 | Neurons II | 
+4 | Methods II | 
+5 |  |
 6 | | 
 7 | |
 8 | | 
@@ -107,5 +107,5 @@ Dec 12 | Final due  | **Response to reviewers' critiques due by midnight**
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNjAwMjAsLTg3Mjk3Mzk3MF19
+eyJoaXN0b3J5IjpbLTE0OTcxNzI1OTcsLTg3Mjk3Mzk3MF19
 -->
