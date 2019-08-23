@@ -39,16 +39,16 @@ Date subject to change.
 Date | Topic | Due
 --- | --- | ---
 T Aug 27 | Overview | 
-R Aug 29 | Brain I | 
-T Sep 3 |  | 
-R Sep 5 |  | 
-T Sep 10 |  |
-R Sep 12 | | 
-T Sep 17| |
+R Aug 29 | Brain I | HW 1
+T Sep 3 |  | HW 2
+R Sep 5 | Neurons I | 
+T Sep 10 |  | HW 3
+R Sep 12 |  | 
+T Sep 17 | Methods I | HW 4
 R Sep 19 | | 
-T Sep 24 | Sounds & phonemes I | 
+T Sep 24 | Sounds & phonemes I | HW 5
 R Sep 26  | | 
-T Oct 1 Words I | | 
+T Oct 1 Words I | | HW 6
 R Oct 3 | | 
 T Oct 8 | Review | **Exam 1 due Wed**
 R Oct 10 | Fall Break | 
@@ -86,5 +86,5 @@ R Dec 5| |
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU4NTk4NjksLTg3Mjk3Mzk3MF19
+eyJoaXN0b3J5IjpbLTE1NTcwMTc1NDQsLTg3Mjk3Mzk3MF19
 -->
