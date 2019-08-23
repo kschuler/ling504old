@@ -17,7 +17,7 @@ Linguistics Department, Conference Room
 This course in an upper level undergraduate/graduate seminar in neurolinguistics. We will explore language in the brain through readings and discussions.
 
 ### Requirements
-All students - including those auditing - are expected to play an active role in class discussion. In each class, one student will be assigned to be the primary reader of each paper.  The primary reader summarizes the reading, leads the discussion, and is primarily responsible for the assigned material.  However, everyone is required to read the assigned material and contribute to the class discussion.
+All students - including those auditing - are expected to play an active role in class discussion. In each class, one student will be the primary reader of each paper.  The primary reader summarizes the reading, leads the discussion, and is primarily responsible for the assigned material.  However, everyone is required to read the assigned material and contribute to the class discussion.
 
 If you are taking the course for credit, your final project will be a research proposal.  Your proposal will be reviewed in an in-class mock study section, and you'll be required to write a formal response to the reviews you receive.
 
@@ -81,7 +81,7 @@ R Dec 5| Moonshot poster session | **Final poster**
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk3MTQzNzgsMTUyOTQ2NjAxMSwtMT
-M1MzAzNDI4OCw3ODU0NzQ1MDksMTY2MjMyOTMwOCwxNzAwNDkw
-OTMzLC03MTQyNTA2MzAsLTg3Mjk3Mzk3MF19
+eyJoaXN0b3J5IjpbMTA5NDQ2MTk3NiwxNTI5NDY2MDExLC0xMz
+UzMDM0Mjg4LDc4NTQ3NDUwOSwxNjYyMzI5MzA4LDE3MDA0OTA5
+MzMsLTcxNDI1MDYzMCwtODcyOTczOTcwXX0=
 -->
