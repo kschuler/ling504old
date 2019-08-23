@@ -40,8 +40,8 @@ Date | Topic | Due
 --- | --- | ---
 T Aug 27 | Overview | 
 R Aug 29 | Brain I | 
-T Sep 3 | Neurons II | 
-R Sep 5 | Methods II | 
+T Sep 3 |  | 
+R Sep 5 |  | 
 T Sep 10 |  |
 R Sep 12 | | 
 T Sep 17| |
@@ -50,7 +50,7 @@ T Sep 24 | Sounds & phonemes I |
 R Sep 26  | | 
 T Oct 1 Words I | | 
 R Oct 3 | | 
-T Oct 8 | Review | Exam 1 
+T Oct 8 | Review | **Exam 1 due Wed**
 R Oct 10 | Fall Break | 
 T Oct 15 | Syntax I | 
 R Oct 17 | | 
@@ -86,5 +86,5 @@ R Dec 5| |
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTc3MDkyMSwtODcyOTczOTcwXX0=
+eyJoaXN0b3J5IjpbLTE3NzU4NTk4NjksLTg3Mjk3Mzk3MF19
 -->
