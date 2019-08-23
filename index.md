@@ -29,7 +29,7 @@ If you are taking the course for credit, your final project will be a research p
 
 ## Schedule
 
-Date subject to change.
+Dates subject to change.
 
 Date | Topic | Due
 --- | --- | ---
@@ -81,7 +81,7 @@ R Dec 5| Moonshot poster session | **Final poster**
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDQ2MTk3NiwxNTI5NDY2MDExLC0xMz
-UzMDM0Mjg4LDc4NTQ3NDUwOSwxNjYyMzI5MzA4LDE3MDA0OTA5
-MzMsLTcxNDI1MDYzMCwtODcyOTczOTcwXX0=
+eyJoaXN0b3J5IjpbNzcxNjkwMzYxLDE1Mjk0NjYwMTEsLTEzNT
+MwMzQyODgsNzg1NDc0NTA5LDE2NjIzMjkzMDgsMTcwMDQ5MDkz
+MywtNzE0MjUwNjMwLC04NzI5NzM5NzBdfQ==
 -->
