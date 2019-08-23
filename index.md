@@ -5,7 +5,7 @@ title: Fall 2019
 
 <h2 align="center">Fall 2019 Syllabus</h2>
 
-**Instructor**: [Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
+**Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
 
 **Time and place**: Tuesdays & Thursdays, 1:30-3:00 pm   
@@ -34,7 +34,7 @@ If you are taking the course for credit, your final project will be a research p
 
 ## Schedule
 
-Date subject to change
+Date subject to change.
 
 Date | Topic | Due
 --- | --- | ---
@@ -86,5 +86,5 @@ R Dec 5| |
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg4NjM2NjcsLTg3Mjk3Mzk3MF19
+eyJoaXN0b3J5IjpbLTMwMTc3MDkyMSwtODcyOTczOTcwXX0=
 -->
