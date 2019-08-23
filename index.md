@@ -46,11 +46,11 @@ T Sep 10 |  |
 R Sep 12 | | 
 T Sep 17| |
 R Sep 19 | | 
-T Sep 24 | | 
-R Sep 26 | | 
-T Oct 1 | | 
+T Sep 24 | Sounds & phonemes | 
+R Sep 26  | | 
+T Oct 1 Words | | 
 R Oct 3 | | 
-T Oct 8| | 
+T Oct 8 | Review | Exam 1 (due Wed at midnight) 
 R Oct 10 | Fall Break | 
 T Oct 15 | | 
 R Oct 17 | | 
@@ -86,5 +86,5 @@ R Dec 5| |
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYxNzY3NzksLTg3Mjk3Mzk3MF19
+eyJoaXN0b3J5IjpbLTE1NzEzMDQwNDksLTg3Mjk3Mzk3MF19
 -->
