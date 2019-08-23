@@ -62,7 +62,7 @@ R Nov 21 | |
 T Nov 26 | Review | **Exam 2 due Wed**
 R Nov 28 | Thanksgiving break |
 T Dec 3 | | 
-R Dec 5| |
+R Dec 5| Moonshot poster session | **Final poster**
 
 
 ## Resources
@@ -81,6 +81,6 @@ R Dec 5| |
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDQ5MDkzMywtNzE0MjUwNjMwLC04Nz
-I5NzM5NzBdfQ==
+eyJoaXN0b3J5IjpbMTY2MjMyOTMwOCwxNzAwNDkwOTMzLC03MT
+QyNTA2MzAsLTg3Mjk3Mzk3MF19
 -->
