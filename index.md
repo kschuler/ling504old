@@ -40,23 +40,23 @@ Date | Topic | Due
 --- | --- | ---
 T Aug 27 | Overview | 
 R Aug 29 | Brain I | 
-T | Neurons II | 
-R | Methods II | 
-T |  |
+T Sep 3| Neurons II | 
+R  | Methods II | 
+T Sep 10 |  |
+R Sep 12 | | 
+T Sep 17| |
 R | | 
-T | |
+T Sep 24 | | 
 R | | 
-T | | 
+T Oct 1 | | 
 R | | 
-T | | 
+T Oct 8| | 
 R | | 
-T | | 
+T Oct 15 | | 
 R | | 
-T | | 
+T Oct 22 |  |
 R | | 
-T |  |
-R | | 
-T | |
+T Oct 29 | |
 R | | 
 T | | 
 R | | 
@@ -84,5 +84,5 @@ R | |
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY2NjE5MjAsLTg3Mjk3Mzk3MF19
+eyJoaXN0b3J5IjpbMjAzMjI5ODgxNSwtODcyOTczOTcwXX0=
 -->
