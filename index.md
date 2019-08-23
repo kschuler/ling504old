@@ -14,7 +14,7 @@ Linguistics Department, Conference Room
 ## Overview
 
 ### Course description
-This course in an upper level undergraduate/graduate seminar in neurolinguistics. We will explore language in the brain through readings and dicussions.
+This course in an upper level undergraduate/graduate seminar in neurolinguistics. We will explore language in the brain through readings and discussions.
 
 ### Requirements
 All students - including those auditing - are expected to play an active role in class discussion. In each class, one student will be assigned to be the primary reader of each paper.  The primary reader summarizes the reading, leads the discussion, and is primarily responsible for the assigned material.  However, everyone is required to read the assigned material and contribute to the class discussion.
@@ -25,7 +25,7 @@ If you are taking the course for credit, your final project will be a research p
 
 * **50% Participation in class discussion**: During class, you're expected to participate in class discussion, even if you are not the primary reader. Undergraduates are required to submit responses to the reading questions each week.
 
-* **50% Papers**: You'll write a research proposal in which you propose an experiment to test a theory of langugae in the brain.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
+* **50% Papers**: You'll write a research proposal in which you propose an experiment to test a theory of language in the brain.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
 
 ## Schedule
 
@@ -81,6 +81,6 @@ R Dec 5| Moonshot poster session | **Final poster**
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjMyOTMwOCwxNzAwNDkwOTMzLC03MT
-QyNTA2MzAsLTg3Mjk3Mzk3MF19
+eyJoaXN0b3J5IjpbNzg1NDc0NTA5LDE2NjIzMjkzMDgsMTcwMD
+Q5MDkzMywtNzE0MjUwNjMwLC04NzI5NzM5NzBdfQ==
 -->
