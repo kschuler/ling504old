@@ -25,7 +25,7 @@ If you are taking the course for credit, your final project will be a research p
 
 * **50% Participation in class discussion**: During class, you're expected to participate in class discussion, even if you are not the primary reader. Undergraduates are required to submit responses to the reading questions each week.
 
-* **50% Papers**: You'll write a research proposal in which you propose an experiment to test a theory of language in the brain.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
+* **50% Papers**: You'll write two research analysis papers in which you summarize and analyze 
 
 ## Schedule
 
@@ -81,6 +81,7 @@ R Dec 5| Moonshot poster session | **Final poster**
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1NDc0NTA5LDE2NjIzMjkzMDgsMTcwMD
-Q5MDkzMywtNzE0MjUwNjMwLC04NzI5NzM5NzBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTMwMzQyODgsNzg1NDc0NTA5LDE2Nj
+IzMjkzMDgsMTcwMDQ5MDkzMywtNzE0MjUwNjMwLC04NzI5NzM5
+NzBdfQ==
 -->
