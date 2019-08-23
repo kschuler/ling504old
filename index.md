@@ -25,7 +25,7 @@ If you are taking the course for credit, your final project will be a research p
 
 * **50% Participation in class discussion**: During class, you're expected to participate in class discussion, even if you are not the primary reader. Undergraduates are required to submit responses to the reading questions each week.
 
-* **50% Papers**: You'll write two research analysis blog posts, each summarizing an article (of your choice) on language and the brain. These posts will be Nature News & Views style articles and posted on our blog: languageandthebrain.org.
+* **50% Papers**: You'll write two research analysis blog posts, each summarizing an article (of your choice) on language and the brain. These posts will be [Nature News & Views](https://www.nature.com/research-analysis) style articles and posted on our blog: languageandthebrain.org.
 
 ## Schedule
 
@@ -81,7 +81,7 @@ R Dec 5| Moonshot poster session | **Final poster**
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxNjkwMzYxLDE1Mjk0NjYwMTEsLTEzNT
-MwMzQyODgsNzg1NDc0NTA5LDE2NjIzMjkzMDgsMTcwMDQ5MDkz
-MywtNzE0MjUwNjMwLC04NzI5NzM5NzBdfQ==
+eyJoaXN0b3J5IjpbMTM4MjA0MTA1NSw3NzE2OTAzNjEsMTUyOT
+Q2NjAxMSwtMTM1MzAzNDI4OCw3ODU0NzQ1MDksMTY2MjMyOTMw
+OCwxNzAwNDkwOTMzLC03MTQyNTA2MzAsLTg3Mjk3Mzk3MF19
 -->
