@@ -39,32 +39,32 @@ Date subject to change.
 Date | Topic | Due
 --- | --- | ---
 T Aug 27 | Overview | 
-R Aug 29 | Brain I | HW 1
-T Sep 3 |  | HW 2
+R Aug 29 | Brain I | 
+T Sep 3 |  | HW 1
 R Sep 5 | Neurons I | 
-T Sep 10 |  | HW 3
+T Sep 10 |  | HW 2
 R Sep 12 |  | 
-T Sep 17 | Methods I | HW 4
+T Sep 17 | Methods I | HW 3
 R Sep 19 | | 
-T Sep 24 | Sounds & phonemes I | HW 5
+T Sep 24 | Sounds & phonemes I | HW 4
 R Sep 26  | | 
-T Oct 1 Words I | | HW 6
+T Oct 1 Words I | | HW 5
 R Oct 3 | | 
 T Oct 8 | Review | **Exam 1 due Wed**
 R Oct 10 | Fall Break | 
-T Oct 15 | Syntax I | 
+T Oct 15 | Syntax I | HW 6
 R Oct 17 | | 
-T Oct 22 | Semantics I |
+T Oct 22 | Semantics I | HW 7
 R Oct 24 | | 
-T Oct 29 | Bilingualism I |
+T Oct 29 | Bilingualism I | HW 8
 R Oct 31 | | 
-T Nov 5 | | 
+T Nov 5 | | HW 9
 R Nov 7 | | 
-T Nov 12 | | 
+T Nov 12 | | HW 10
 R Nov 14| | 
-T Nov 19 | | 
+T Nov 19 | | HW 11
 R Nov 21 | | 
-T Nov 26 | Review | Exam 2
+T Nov 26 | Review | Exam 2 due Wed
 R Nov 28 | Thanksgiving break |
 T Dec 3 | | 
 R Dec 5| |
@@ -86,5 +86,5 @@ R Dec 5| |
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTcwMTc1NDQsLTg3Mjk3Mzk3MF19
+eyJoaXN0b3J5IjpbMTI1MzM3MDI5OCwtODcyOTczOTcwXX0=
 -->
