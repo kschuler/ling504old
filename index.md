@@ -25,7 +25,7 @@ If you are taking the course for credit, your final project will be a research p
 
 * **50% Participation in class discussion**: During class, you're expected to participate in class discussion, even if you are not the primary reader. Undergraduates are required to submit responses to the reading questions each week.
 
-* **50% Papers**: You'll write two research analysis papers in which you summarize and analyze 
+* **50% Papers**: You'll write two research analysis papers, each summarizing an article (of your choice) on language and the brain. These papers will be 
 
 ## Schedule
 
@@ -81,7 +81,7 @@ R Dec 5| Moonshot poster session | **Final poster**
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTMwMzQyODgsNzg1NDc0NTA5LDE2Nj
-IzMjkzMDgsMTcwMDQ5MDkzMywtNzE0MjUwNjMwLC04NzI5NzM5
-NzBdfQ==
+eyJoaXN0b3J5IjpbMTUyOTQ2NjAxMSwtMTM1MzAzNDI4OCw3OD
+U0NzQ1MDksMTY2MjMyOTMwOCwxNzAwNDkwOTMzLC03MTQyNTA2
+MzAsLTg3Mjk3Mzk3MF19
 -->
