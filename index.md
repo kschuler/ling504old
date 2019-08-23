@@ -25,12 +25,7 @@ If you are taking the course for credit, your final project will be a research p
 
 * **50% Participation in class discussion**: During class, you're expected to participate in class discussion, even if you are not the primary reader. Undergraduates are required to submit responses to the reading questions each week.
 
-* **40% Research proposal**: You'll write a research proposal in which you propose an experiment to test a theory of langugae in the brain.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
-
-* **20% In-class peer review**: On the final day of class, we'll conduct a mock study section - an NIH-style peer review panel - to evaluate the research proposals.   Each student will be asked to be the primary reviewer for one proposal and the secondary reviewer for another.  Primary and secondary reviewers will turn in written critiques of their assigned proposals and lead the discussion in the mock study section.  More details about the mock study section are available [here](spring2019/research-proposal#in-class-peer-review).
-
-
-* **20% Written response to reviews**: After the in-class peer review, you'll receive the written reviews of your proposal and  be asked to write a formal response to the reviews’ critiques. More details about the response to reviews are available [here](spring2019/research-proposal#written-response-to-reviews).
+* **50% Papers**: You'll write a research proposal in which you propose an experiment to test a theory of langugae in the brain.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
 
 ## Schedule
 
@@ -86,6 +81,6 @@ R Dec 5| |
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDI1Njg5OSwtNzE0MjUwNjMwLC04Nz
+eyJoaXN0b3J5IjpbMTcwMDQ5MDkzMywtNzE0MjUwNjMwLC04Nz
 I5NzM5NzBdfQ==
 -->
