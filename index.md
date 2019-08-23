@@ -36,59 +36,36 @@ If you are taking the course for credit, your final project will be a research p
 
 Notes: One name means one primary reader (Primary: Paper), two names mean a primary and a secondary reader (Primary/Secondary: Paper).  
 
-Date | Topic | Assignment
+Date | Topic | Due
 --- | --- | ---
-T Aug 27 | Overview | Brain I
+T Aug 27 | Overview | 
 R Aug 29 | Brain I | 
-3 | Neurons II | 
-4 | Methods II | 
-5 |  |
-6 | | 
-7 | |
-8 | | 
-9 | | 
-10 | | 
-11 | | 
-12 | | 
-13 | | 
-14 | | 
-15 | | 
-16 | | 
-
-
-Date | Topic | Readings & **Deadlines**
- --- | --- | ---
-Aug 27 | Course outline & questions | 
-Aug 29 | Brains |
-Sep 3 | Issues and methods| 
-Sep 5 | Planning | 
-Sep 10 | Sounds & phonemes | 
-Sep 12 | Grant Ideas | 
-Sep 17 | Words | 
-Sep 19 | Literature review I | 
-Sep 24 | Syntax  | 
-Sep 26 | Literature review II | 
-Oct 1 | Semantics | 
-Oct 3 | Defining your research question |
-Oct 8 | Disorders | 
-Oct 10 | No class, Fall break | 
-Oct 15 | Billingualism | 
-Oct 17 | Specific Aims I | 
-Oct 22 | Sign Language | 
-Oct 24 | Specific Aims II | 
-Oct 29 | Acquisition | 
-Oct 31 |  | 
-Nov 5 | Written language| 
-Nov 7 | | 
-Nov 12 | Dyslexia | 
-Nov 14 | Choose Good Words | 
-Nov 19 | Language and cerebellum | 
-Nov 21 | Final edits | 
-Nov 26 | Language and our genes | **Research proposals due by Wednesday at midnight**
-Nov 28 | No class, Thanksgiving break | 
-Dec 3 | Language evolution | **Written critiques due Friday at midnight**
-Dec 5 | Last class, Mock study section | Read assigned proposals 
-Dec 12 | Final due  | **Response to reviewers' critiques due by midnight**
+T | Neurons II | 
+R | Methods II | 
+T |  |
+R | | 
+T | |
+R | | 
+T | | 
+R | | 
+T | | 
+R | | 
+T | | 
+R | | 
+T | | 
+R | | 
+T |  |
+R | | 
+T | |
+R | | 
+T | | 
+R | | 
+T | | 
+R | | 
+T | | 
+R | | 
+T | | 
+R | |
 
 
 ## Resources
@@ -107,5 +84,5 @@ Dec 12 | Final due  | **Response to reviewers' critiques due by midnight**
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTcxNzI1OTcsLTg3Mjk3Mzk3MF19
+eyJoaXN0b3J5IjpbLTE4NzY2NjE5MjAsLTg3Mjk3Mzk3MF19
 -->
