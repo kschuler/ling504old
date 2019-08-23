@@ -34,38 +34,40 @@ If you are taking the course for credit, your final project will be a research p
 
 ## Schedule
 
-Notes: One name means one primary reader (Primary: Paper), two names mean a primary and a secondary reader (Primary/Secondary: Paper).  
+Date subject to change
 
 Date | Topic | Due
 --- | --- | ---
 T Aug 27 | Overview | 
 R Aug 29 | Brain I | 
-T Sep 3| Neurons II | 
-R  | Methods II | 
+T Sep 3 | Neurons II | 
+R Sep 5 | Methods II | 
 T Sep 10 |  |
 R Sep 12 | | 
 T Sep 17| |
-R | | 
+R Sep 19 | | 
 T Sep 24 | | 
-R | | 
+R Sep 26 | | 
 T Oct 1 | | 
-R | | 
+R Oct 3 | | 
 T Oct 8| | 
-R | | 
+R Oct 10 | Fall Break | 
 T Oct 15 | | 
-R | | 
+R Oct 17 | | 
 T Oct 22 |  |
-R | | 
+R Oct 24 | | 
 T Oct 29 | |
-R | | 
-T | | 
-R | | 
-T | | 
-R | | 
-T | | 
-R | | 
-T | | 
-R | |
+R Oct 31 | | 
+T Nov 5 | | 
+R Nov 7 | | 
+T Nov 12 | | 
+R Nov 14| | 
+T Nov 19 | | 
+R Nov 21 | | 
+T Nov 26 | | 
+R Nov 28 | Thanksgiving break|
+T Dec 3 | | 
+R Dec 5| |
 
 
 ## Resources
@@ -84,5 +86,5 @@ R | |
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjI5ODgxNSwtODcyOTczOTcwXX0=
+eyJoaXN0b3J5IjpbLTE0OTYxNzY3NzksLTg3Mjk3Mzk3MF19
 -->
