@@ -38,10 +38,10 @@ Notes: One name means one primary reader (Primary: Paper), two names mean a prim
 
 Week | Tuesday | Thursday
 --- | --- | ---
-1 | |
-2 | |
-3 | | 
-4 | |
+1 | Overview | Brain I
+2 | Brain II | Neurons I 
+3 | Neurons II | Methods I
+4 |  |
 5 | |
 6 | | 
 7 | |
@@ -107,5 +107,5 @@ Dec 12 | Final due  | **Response to reviewers' critiques due by midnight**
 ## Readings
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Mjk3Mzk3MF19
+eyJoaXN0b3J5IjpbNDQyNjAwMjAsLTg3Mjk3Mzk3MF19
 -->
